@@ -19,8 +19,8 @@
 
 ## Frameworks
 <p>
-   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=whit"></a>
-   <a href="#"><img alt="ASP.NET" src="https://img.shields.io/badge/.net-4285F4?logo=dotnet&logoColor=white"></a>
+   <a href="#"><img alt="Node.JS" src="https://img.shields.io/badge/Node.js-4285F4?logo=node.js&logoColor=white"></a>
+   <a href="#"><img alt="Asp.Net" src="https://img.shields.io/badge/.net-4285F4?logo=dotnet&logoColor=white"></a>
    <a href="#"><img alt="Qbus" src="https://img.shields.io/badge/Qbus-%23FF0000.svg?logo=fivem&logoColor=white"></a>
 </p>
 
