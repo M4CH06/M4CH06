@@ -1,6 +1,6 @@
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=M4CHgg&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=M4CHgg&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=M4CHgg&&show_icons=true&count_private=true&theme=github_dark">
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4CHgg&layout=compact&theme=github_dark"/>|
 
@@ -50,5 +50,5 @@
  <p align="center">
   <a href="https://twitter.com/M4CHgg"><img alt="Twitter" title="M4CH Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://github.com/M4CHgg"><img alt="Github" title="M4CH Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.eeroleplay.net"><img alt="Qwiklabs" title="EE Roleplay" src="https://img.shields.io/badge/EERP-0077B5?style=for-the-badge&logo=site&logoColor=white"></a>
+  <a href="https://www.eeroleplay.net"><img alt="Qwiklabs" title="EE Roleplay" src="https://img.shields.io/badge/EERP-0077B5?style=for-the-badge&logo=microsoftedge&logoColor=white"></a>
 </p>
