@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=M4CHgg&&show_icons=true&count_private=true&theme=github_dark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4CHgg&layout=compact&theme=github_dark"/>
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=M4CHgg&label=Profile%20views&color=020202&style=flat"
+<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=M4CHgg&label=Profile%20views&color=020202&style=flat"
     alt="M4CHgg" /> 
   </p>
 
