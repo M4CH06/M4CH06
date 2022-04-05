@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://discord.gg/2mf8yZXaEC"><img alt="Discord" title="M4CH's Discord Server" src="https://img.shields.io/discord/930889721826132060?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white"></a>
-  <a href=![Discord](https://img.shields.io/badge/M4CH%230004-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)></a>
+  <a href=Discord(https://img.shields.io/badge/M4CH%230004-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)></a>
  </p>
  <p align="center">
   <a href="https://twitter.com/M4CHgg"><img alt="Twitter" title="M4CH Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
