@@ -17,10 +17,11 @@
     <a href="#"><img alt="Lua" src="https://img.shields.io/badge/Lua-0078D7?logo=lua&logoColor=black"></a>
 </p>
 
-## Frameworks and Libraries
+## Frameworks
 <p>
-   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-   <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
+   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-90E59A.svg?logo=node.js%2B%2B&logoColor=black"></a>
+   <a href="#"><img alt="ASP.NET" src="https://img.shields.io/badge/.net-4285F4?logo=dotnet&logoColor=white"></a>
+   <a href="#"><img alt="Qbus" src="https://img.shields.io/badge/Qbus-%23FF0000.svg?logo=fivem&logoColor=white"></a>
 </p>
 
 ## Databases
