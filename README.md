@@ -26,9 +26,8 @@
 
 ## Frameworks
 <p>
-   <a href="#"><img alt="Node.JS" src="https://img.shields.io/badge/Node.js-%2311AB00?logo=node.js&logoColor=white"></a>
-   <a href="#"><img alt="Asp.Net" src="https://img.shields.io/badge/.net-4285F4?logo=dotnet&logoColor=white"></a>
-   <a href="#"><img alt="Qbus" src="https://img.shields.io/badge/Qbus-%23FF0000.svg?logo=fivem&logoColor=white"></a>
+   <a href="#"><img alt="Vue.JS" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&logoColor=white"></a>
+   <a href="#"><img alt="Node.JS" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
 </p>
 
 ## Databases
