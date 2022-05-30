@@ -20,7 +20,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
@@ -34,8 +34,9 @@
 ## Databases
 
 <p>
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%020202.svg?logo=mongodb&logoColor=black"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-FB542B?logo=mysql&logoColor=black"></a>
+    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=black"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%020202.svg?logo=mongodb&logoColor=black"></a>
 </p> 
 
 ## Software and Tools
