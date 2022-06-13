@@ -27,7 +27,6 @@
 ## Frameworks
 <p>
    <a href="#"><img alt="Vue.JS" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&logoColor=white"></a>
-   <a href="#"><img alt="Node.JS" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
 </p>
 
 ## Databases
