@@ -24,10 +24,6 @@
 
 </p>
 
-## Frameworks
-<p>
-   <a href="#"><img alt="Vue.JS" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&logoColor=white"></a>
-</p>
 
 ## Databases
 
