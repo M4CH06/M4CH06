@@ -37,14 +37,6 @@
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%020202.svg?logo=mongodb&logoColor=black"></a>
 </p> 
 
-## Software And Tools
-<p>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
-	<a href="#"><img alt="VSCode" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=black"></a>
-	<a href="#"><img alt="VS" src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=black"></a>
-</p>
-
 ## Connect With Me
 
 
