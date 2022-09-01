@@ -54,5 +54,5 @@
  <p align="center">
   <a href="https://twitter.com/M4CHgg"><img alt="Twitter" title="M4CH Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://github.com/M4CH06"><img alt="Github" title="M4CH Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.eecommunity.net"><img alt="Qwiklabs" title="EE Roleplay" src="https://img.shields.io/badge/EERP-0077B5?style=for-the-badge&logo=microsoftedge&logoColor=white"></a>
+  <a href="http://eecommunity.net/"><img alt="Qwiklabs" title="EE Roleplay" src="https://img.shields.io/badge/EERP-0077B5?style=for-the-badge&logo=microsoftedge&logoColor=white"></a>
 </p>
