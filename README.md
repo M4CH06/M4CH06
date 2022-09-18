@@ -29,7 +29,6 @@
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-FB542B?logo=mysql&logoColor=black"></a>
-    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=black"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%020202.svg?logo=mongodb&logoColor=black"></a>
 </p> 
 
