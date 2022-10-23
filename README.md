@@ -1,6 +1,6 @@
 ## Github Stats
 
-<a href="https://discord.gg/fM6NWRaJch"><img alt="Discord" src="https://img.shields.io/discord/1019709144468570185?label=Discord&logo=Discord"></a>
+<a href="https://discord.gg/8gQh5PAuVC"><img alt="Discord" src="https://img.shields.io/discord/1033075496910594118?label=Discord&logo=Discord"></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=M4CH06&&show_icons=true&count_private=true&theme=github_dark">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4CH06&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/>
