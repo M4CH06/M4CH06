@@ -2,10 +2,8 @@
 
 <a href="https://discord.gg/qgstp5cqWM"><img alt="Discord" src="https://img.shields.io/discord/1043611375588614246?label=Discord&logo=Discord"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4CH06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4CH06&show_icons=true&theme=radical)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=M4CH06&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4CH06&layout=compact&theme=github_dark"/>
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=M4CH06&label=Profile%20views&color=020202&style=flat"
     alt="M4CH06" />
 
