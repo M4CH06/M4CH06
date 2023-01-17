@@ -19,16 +19,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+    https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
 
 </p>
-
-
-## Databases
-
-<p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-FB542B?logo=mysql&logoColor=black"></a>
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%020202.svg?logo=mongodb&logoColor=black"></a>
-</p> 
 
 ## Connect With Me
 
