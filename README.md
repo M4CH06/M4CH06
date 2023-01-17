@@ -16,9 +16,9 @@
 ## Programming Languages
 
 <p>
-      <a href="http://eecommunity.net/"><img alt="Qwiklabs" title="EE Roleplay" src="https://img.shields.io/badge/lua-6118c6?style=for-the-badge&logo=&logoColor=white"></a>
-      <a href="http://eecommunity.net/"><img alt="Qwiklabs" title="EE Roleplay" src="https://img.shields.io/badge/JS-6118c6?style=for-the-badge&logo=&logoColor=white"></a>
-      <a href="http://eecommunity.net/"><img alt="Qwiklabs" title="EE Roleplay" src="https://img.shields.io/badge/PHP-6118c6?style=for-the-badge&logo=&logoColor=white"></a>
+      <a href="https://www.lua.org/"><img alt="Qwiklabs" title="LUA" src="https://img.shields.io/badge/lua-6118c6?style=for-the-badge&logo=&logoColor=white"></a>
+      <a href="https://www.javascript.com/"><img alt="Qwiklabs" title="JAVASCRIPT" src="https://img.shields.io/badge/JS-6118c6?style=for-the-badge&logo=&logoColor=white"></a>
+      <a href="https://www.php.net/"><img alt="Qwiklabs" title="PHP" src="https://img.shields.io/badge/PHP-6118c6?style=for-the-badge&logo=&logoColor=white"></a>
 </p>
 
 ## Connect With Me
