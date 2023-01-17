@@ -16,12 +16,9 @@
 ## Programming Languages
 
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-    https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
-    ![img](    https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
+      <a href="http://eecommunity.net/"><img alt="Qwiklabs" title="EE Roleplay" src="https://img.shields.io/badge/lua-6118c6?style=for-the-badge&logo=&logoColor=white"></a>
+      <a href="http://eecommunity.net/"><img alt="Qwiklabs" title="EE Roleplay" src="https://img.shields.io/badge/JS-6118c6?style=for-the-badge&logo=&logoColor=white"></a>
+      <a href="http://eecommunity.net/"><img alt="Qwiklabs" title="EE Roleplay" src="https://img.shields.io/badge/PHP-6118c6?style=for-the-badge&logo=&logoColor=white"></a>
 </p>
 
 ## Connect With Me
