@@ -11,12 +11,3 @@
     alt="M4CH06" />
 
   </p>
-
-
-## Programming Languages
-
-<p>
-      <a href="https://www.lua.org/"><img alt="Qwiklabs" title="lua" src="https://img.shields.io/badge/lua-6118c6?style=for-the-badge&logo=&logoColor=white"></a>
-      <a href="https://www.javascript.com/"><img alt="Qwiklabs" title="java-script" src="https://img.shields.io/badge/JS-6118c6?style=for-the-badge&logo=&logoColor=white"></a>
-      <a href="https://www.php.net/"><img alt="Qwiklabs" title="php" src="https://img.shields.io/badge/PHP-6118c6?style=for-the-badge&logo=&logoColor=white"></a>
-</p>
