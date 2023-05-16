@@ -1,6 +1,6 @@
 ## Github Stats
 
-<a href="https://discord.gg/bnXCSXF37d"><img alt="Discord" src="https://img.shields.io/discord/483595089877401601?label=Discord&logo=Discord"></a>
+<a href="https://discord.gg/3qyjXPddWc"><img alt="Discord" src="https://img.shields.io/discord/483595089877401601?label=Discord&logo=Discord"></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=M4CH06&theme=tokyonight)](https://git.io/streak-stats)
 
